@@ -1,4 +1,4 @@
-# fneirab.github.io Main
+# Main
 ## Projects
 [Test project](https://fneirab.github.io/projects/test)
 
